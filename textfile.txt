@@ -1,0 +1,22 @@
+WELCOME TO MY TEXT FILE
+
+Name       : Sharmila Shaik
+Course     : Computer Science
+Subject    : Web Technologies
+
+ABOUT THIS FILE
+----------------
+This is a simple text file.
+It contains plain text only.
+No HTML or styling is used.
+
+TOPICS LEARNED
+--------------
+1. HTML
+2. CSS
+3. JavaScript
+4. Git Basics
+
+THANK YOU
+---------
+This file is created for practice purposes.
